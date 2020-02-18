@@ -1,4 +1,4 @@
-# programming-day
+# Programming Day
 
 This is a series of Python/programming related seminars held by Kafeibreak 
 participants.  Up to now the scheduled topics can be catagorized into three 
