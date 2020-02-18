@@ -4,7 +4,7 @@ This is a series of Python/programming related seminars held by Kafeibreak
 participants.  Up to now the scheduled topics can be catagorized into three 
 major sections as following:
 
-##Python Practice (PP)
+## Python Practice (PP)
 > This section is a systematic introduction of Python to beginner-level 
 > pythonists.  
 >
@@ -44,7 +44,7 @@ major sections as following:
     Pulishing: pip, Github, etc.
 
 
-##Fancy Python
+## Fancy Python
 > Package based application of Python in research work.
 > 
 > Contributors: 
@@ -70,7 +70,7 @@ major sections as following:
 
 - Web-server: Django, Flask
 
-##Non-python Talks
+## Non-python Talks
 > Free topics, programming related.
 
 - Git & Github
