@@ -15,6 +15,7 @@ All the major changes from python2 to python3 [Offical guidance from Python2 to 
 | Iteration                     | The new Range() function introduced to perform iterations.   | In Python 2, the xrange() is used for iterations.            |
 | Exceptions                    | It should be enclosed in parenthesis.                        | It should be enclosed in notations.                          |
 | Leak of variables             | The value of variables never changes.                        | The value of the global variable will change while using it inside for-loop. |
+| Function annotation syntax    |                                                              |                                                              |
 
 
 
@@ -28,9 +29,31 @@ from __future__ import print_function
 
 
 
-1. New features of python
-   - asyncio
-   - iterator
+New features of python
+
+1. Python 3.8
+
+   - Assignment expressions
+
+   - Positional-only parameters
+
+2. Python 3.7
+
+   - Postponed Evaluation of Annotations
+   - Build-in `breakpoint()` calls 
+   - New `dataclass`
+
+3. Python 3.6
+   - f-string
+   - underscores in numeric literals
+   - New `secrets` module
+
+4. Python 3.5
+   - `typing` and `zipapp` new build-in module
+   -  a new matrix multiplication operator: `a @ b`
+5. Python 3.4
+   - `asyncio`
+   - `pathlib`
 
 
 
