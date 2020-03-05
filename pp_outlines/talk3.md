@@ -96,8 +96,11 @@ $ conda deactivate
 > Before run any `pip` or `python`, try 
 >
 > ```shell
-> $ which python  # for linux/macos
-> < where python  # for windows
+> $ which python                # for linux/macos
+> < where python                # for windows
+> 
+> $ python -m site              # for global site-packages
+> $ python -m site --user-site  # where Python installs your local packages
 > ```
 >
 > To confirm beforehand that you are installing the packages into the appropriate environment 
