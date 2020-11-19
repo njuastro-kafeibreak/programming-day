@@ -70,7 +70,7 @@ major sections as following:
 
 - Web-server: Django, Flask
 
-- Shell command in python (**Speaker Xiaotong Guo**)
+- [Shell command in python](https://github.com/njuastro-kafeibreak/programming-day/blob/master/fancy_python/python%E5%AE%9E%E7%8E%B0%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E6%93%8D%E4%BD%9C.ipynb) -- **Speaker: Xiaotong Guo**
 
 ## Non-python Talks
 > Free topics, programming related.
