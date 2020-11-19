@@ -70,6 +70,8 @@ major sections as following:
 
 - Web-server: Django, Flask
 
+- Shell command in python (**Speaker Xiaotong Guo**)
+
 ## Non-python Talks
 > Free topics, programming related.
 
